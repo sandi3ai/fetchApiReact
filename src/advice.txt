@@ -1,0 +1,6 @@
+star način uporabe state, setState...
+
+model spremeni api url, tako da doda /?results=5 
+na ta način url prikaže max 5 uporabnikov...
+dokler nisem tega naredil mi ni prikazalo nič,
+očitno preobremenitev brskalnika, ni bilo niti undefined
